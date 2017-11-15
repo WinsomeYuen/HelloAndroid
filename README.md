@@ -14,4 +14,6 @@ Udacity, 2465 Latham St, Mountain View, CA 94043, 650-555-5555
 - ViewGroups contain at least one ImageView and at least one TextView
 - The project must have one or more ImageViews and TextViews
 
-![Alt text](https://flic.kr/p/Zsvcdq)
+<p align="center">
+  <img src="https://c1.staticflickr.com/5/4537/37712260644_7eefab7a11_b.jpg" width="350"/>
+</p>
